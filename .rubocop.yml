@@ -1,0 +1,16 @@
+AllCops:
+  TargetRubyVersion: 2.6
+  Exclude: []
+
+Bundler/DuplicatedGem:
+  Enabled: true
+  Include:
+    - '**/*.gemfile'
+    - '**/Gemfile'
+    - '**/gems.rb'
+
+Style/AsciiComments:
+  Enabled: false
+
+Style/BlockComments:
+  Enabled: false

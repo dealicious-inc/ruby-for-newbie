@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/features" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/.bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/cache" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="ast (vbundled(2.4.2)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/ast-2.4.2/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/ast-2.4.2/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="diff-lcs (vbundled(1.4.4)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/diff-lcs-1.4.4/bin" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/diff-lcs-1.4.4/lib" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/diff-lcs-1.4.4/docs" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/diff-lcs-1.4.4/spec" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/diff-lcs-1.4.4/autotest" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/diff-lcs-1.4.4/bin" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/diff-lcs-1.4.4/lib" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/diff-lcs-1.4.4/docs" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/diff-lcs-1.4.4/spec" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/diff-lcs-1.4.4/autotest" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/diff-lcs-1.4.4/bin" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/diff-lcs-1.4.4/docs" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/diff-lcs-1.4.4/spec" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/diff-lcs-1.4.4/autotest" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="parallel (vbundled(1.20.1)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/parallel-1.20.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/parallel-1.20.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="parser (vbundled(3.0.1.1)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/parser-3.0.1.1/bin" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/parser-3.0.1.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/parser-3.0.1.1/bin" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/parser-3.0.1.1/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/parser-3.0.1.1/bin" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rainbow (vbundled(3.0.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rainbow-3.0.0/lib" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rainbow-3.0.0/spec" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rainbow-3.0.0/lib" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rainbow-3.0.0/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rainbow-3.0.0/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="regexp_parser (vbundled(2.1.1)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/regexp_parser-2.1.1/lib" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/regexp_parser-2.1.1/spec" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/regexp_parser-2.1.1/lib" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/regexp_parser-2.1.1/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/regexp_parser-2.1.1/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rexml (vbundled(3.2.5)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rexml-3.2.5/doc" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rexml-3.2.5/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rexml-3.2.5/doc" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rexml-3.2.5/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rexml-3.2.5/doc" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec (vbundled(3.10.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rspec-3.10.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rspec-3.10.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec-core (vbundled(3.10.1)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rspec-core-3.10.1/exe" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rspec-core-3.10.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rspec-core-3.10.1/exe" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rspec-core-3.10.1/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rspec-core-3.10.1/exe" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec-expectations (vbundled(3.10.1)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rspec-expectations-3.10.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rspec-expectations-3.10.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec-mocks (vbundled(3.10.2)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rspec-mocks-3.10.2/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rspec-mocks-3.10.2/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec-support (vbundled(3.10.2)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rspec-support-3.10.2/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rspec-support-3.10.2/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rubocop (vbundled(1.16.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rubocop-1.16.0/exe" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rubocop-1.16.0/lib" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rubocop-1.16.0/assets" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rubocop-1.16.0/config" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rubocop-1.16.0/exe" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rubocop-1.16.0/lib" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rubocop-1.16.0/assets" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rubocop-1.16.0/config" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rubocop-1.16.0/exe" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rubocop-1.16.0/assets" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rubocop-1.16.0/config" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rubocop-ast (vbundled(1.7.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rubocop-ast-1.7.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/rubocop-ast-1.7.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ruby-progressbar (vbundled(1.11.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/ruby-progressbar-1.11.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/ruby-progressbar-1.11.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="unicode-display_width (vbundled(2.0.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/unicode-display_width-2.0.0/lib" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/unicode-display_width-2.0.0/data" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/unicode-display_width-2.0.0/lib" />
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/unicode-display_width-2.0.0/data" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/.bundle/ruby/2.6.0/gems/unicode-display_width-2.0.0/data" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.2.19, rbenv: 2.6.6) [gem]" level="application" />
+  </component>
+</module>
